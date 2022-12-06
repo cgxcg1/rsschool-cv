@@ -27,11 +27,11 @@ do{
 ## Experience
 Grill&Bar | Waiter - 2 months\
 DPD | Warehouse worker - 3 months\
-Wallpaper house | Warehouse manager/Sales manage - 2 years 4 months
+Wallpaper house | Warehouse manager/Sales manager - 2 years 4 months
 
 ## Education
 Tyumen Construction University\
-RSS School Front-End stage 0 course
+RS School Front-End stage 0 course
 
 ## Languages
 Russian - native speaker\
